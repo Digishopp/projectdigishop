@@ -1,0 +1,24 @@
+.top-right {
+    position: absolute; /* Menempatkan tombol di posisi absolute */
+    top: 10px; /* Jarak dari bagian atas halaman */
+    right: 10px; /* Jarak dari sisi kanan halaman */
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  .dark {
+    background: black;
+    color : white
+  }
+
+  .light {
+    background: white;
+    color : black
+  }
+
+  .relative {
+    color: black;
+  }
